@@ -2,8 +2,8 @@
 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
-## NAME: A.JEEVITH
-## REG.NO:212223240059
+## NAME: VESLIN ANISH A
+## REG.NO:212223240175
 
 ## ALGORITHM:
 ### Client:
@@ -73,10 +73,12 @@ while True:
  print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-![image](https://github.com/Yuvaranithulasingam/2c.ARP_RARP_PROTOCOLS/assets/121418522/f1672c11-b0d6-4d4a-b076-d81b505c4e50)
+![Screenshot 2024-05-15 101042](https://github.com/veslin23000303/2c.ARP_RARP_PROTOCOLS/assets/151148539/32153852-0100-437e-971e-b9cc264011f4)
+
 
 ## OUPUT -RARP
-![image](https://github.com/Yuvaranithulasingam/2c.ARP_RARP_PROTOCOLS/assets/121418522/34ab84eb-9e13-4449-b899-9128d5988d16)
+![Screenshot 2024-05-15 101056](https://github.com/veslin23000303/2c.ARP_RARP_PROTOCOLS/assets/151148539/4445f14b-2c2d-44fd-82a1-4120ce3ed24e)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
